@@ -1,6 +1,8 @@
 # Nexthike_Project01
 Web Scraping and Word Frequency
 
+Collecting articles from Python.org and You have to scrap the website data and check the word frequency in that article.
+
 Task 1: Web Scraping: I have used libraries like requests and BeautifulSoup to scrape data from a website [Welcome to Python. org]
 And saved the data in a text file.
 
